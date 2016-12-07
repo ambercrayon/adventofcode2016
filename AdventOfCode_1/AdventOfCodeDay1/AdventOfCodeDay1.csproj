@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\turns-test2.txt" />
+    <Content Include="Data\turns-twice.txt" />
     <Content Include="Data\turns-test3.txt" />
     <Content Include="Data\turns-test1.txt" />
     <Content Include="Data\turns.txt" />
