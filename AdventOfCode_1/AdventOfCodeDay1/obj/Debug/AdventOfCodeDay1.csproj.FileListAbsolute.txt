@@ -1,0 +1,6 @@
+c:\users\amber\onedrive\documents\visual studio 2015\Projects\AdventOfCodeDay1\AdventOfCodeDay1\bin\Debug\AdventOfCodeDay1.exe.config
+c:\users\amber\onedrive\documents\visual studio 2015\Projects\AdventOfCodeDay1\AdventOfCodeDay1\obj\Debug\AdventOfCodeDay1.csprojResolveAssemblyReference.cache
+c:\users\amber\onedrive\documents\visual studio 2015\Projects\AdventOfCodeDay1\AdventOfCodeDay1\bin\Debug\AdventOfCodeDay1.exe
+c:\users\amber\onedrive\documents\visual studio 2015\Projects\AdventOfCodeDay1\AdventOfCodeDay1\bin\Debug\AdventOfCodeDay1.pdb
+c:\users\amber\onedrive\documents\visual studio 2015\Projects\AdventOfCodeDay1\AdventOfCodeDay1\obj\Debug\AdventOfCodeDay1.exe
+c:\users\amber\onedrive\documents\visual studio 2015\Projects\AdventOfCodeDay1\AdventOfCodeDay1\obj\Debug\AdventOfCodeDay1.pdb
